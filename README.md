@@ -8,4 +8,4 @@
 **ORM框架**：mybatis
 **大模型接入**：deepseek
 **工具类**：Lombok,OkHttp
-##核心功能（持续ing...)
+## 核心功能（持续ing...)
